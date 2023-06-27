@@ -111,7 +111,7 @@
             </div>
         </div>   
         <?php
-            //include("galeria1.php");
+            include("galeria1.php");
             include("galeria2.php");
             //include("prueba.php");
         ?>
